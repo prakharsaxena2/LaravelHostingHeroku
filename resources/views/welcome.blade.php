@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Project Hosting on Heroku
+                    Laravel Project Hosting on Heroku By Prakhar
                 </div>
 
                 <div class="links">
